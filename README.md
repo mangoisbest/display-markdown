@@ -20,4 +20,4 @@ I also wanted a way that was backend agnostic so it could all be handled via Jav
 ## To do
 1. Add more CSS to style this sucker better
 
-[Back to the repo](https://github.com/sawmac/display-markdown)
+[Edit this page on Github](https://github.com/mangoisbest/display-markdown/edit/gh-pages/README.md)
