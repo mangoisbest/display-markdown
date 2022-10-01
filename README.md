@@ -9,7 +9,7 @@ Renders a markdown file as HTML and displays it. JavaScript loads a markdown fil
 
 ## Why?
 I wanted a way to display markdown files as HTML on any website -- but in particular, I wanted to be able to use Github pages to render the README.md file for a repo. Mainly so I could use a repo as a way to create installation guides and other how-to's in a single markdown file.
-
+this is cool
 I also wanted a way that was backend agnostic so it could all be handled via JavaScript without any server requirements.
 
 ## How to use
